@@ -1,4 +1,4 @@
-package thread.sync;
+package thread.sync.test;
 
 public class SyncTest1Main {
 
